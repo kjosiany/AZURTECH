@@ -1,0 +1,16 @@
+AZURTECH — PORTFÓLIO
+
+Como visualizar:
+1. Extraia todos os arquivos do ZIP para uma pasta.
+2. Abra o arquivo index.html no navegador.
+
+Como publicar:
+Envie a pasta inteira para a hospedagem do domínio azurtech.com.br, mantendo o index.html, style.css, script.js e a pasta assets. Não envie apenas o HTML: as imagens das prévias ficam na pasta assets.
+
+O que foi atualizado:
+- Incluí capturas de tela dos sete sites demonstrativos enviados.
+- Incluí capturas de Conecta Trampo BH, SP e Bahia.
+- Cada cartão continua clicável e abre o site completo em outra aba.
+- As imagens são prévias; clique no cartão para navegar pelo projeto.
+
+Observação: os dados exibidos dentro de sites demonstrativos podem ser ilustrativos.
